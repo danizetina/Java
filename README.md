@@ -8,7 +8,7 @@
 
 La actividad propone una situación sencilla y realista: registrar información básica de un paciente (nombre, edad y número de expediente) y mostrarla de forma organizada. 
 
- 🔹 [Registro de pacientes](Sesion01-Introduccion/Reto1.md)
+ 🔹 [Registro de pacientes](<Sesion 1/Reto 01>)
 
  #### 📝 Reto 2:
 
