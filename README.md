@@ -12,11 +12,11 @@ La actividad propone una situación sencilla y realista: registrar información 
 
  #### 📝 Reto 2:
 
- 🔸 [Tu primera clase Java](Sesion01-Introduccion/Reto2.md)
+ 🔸 [Tu primera clase Java](<Sesion 1/Reto 02>)
 
 ### 2. 🔀 Tipos de datos y sentencias de control
- 🔹 [Reto 1: Calculadora básica](Sesion02-Variables-Tipos/Reto1.md)
- 🔸 [Reto 2: Condicionales anidadas](Sesion02-Variables-Tipos/Reto2.md)
+ 🔹 [Reto 1: Calculadora básica](<Sesion 2/Reto 01>)
+ 🔸 [Reto 2: Condicionales anidadas](<Sesion 2/Reto 01>)
 
 ### 3. 🏗️ Clases y objetos: crea aplicaciones que permitan el ingreso de información
  🔹 [Reto 1: Clasificador de edad](Sesion03-ControlFlujo/Reto1.md)
