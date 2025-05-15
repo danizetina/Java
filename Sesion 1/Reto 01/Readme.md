@@ -1,4 +1,4 @@
-# RegistroBasicoDePacientes
+# Registro Básico De Pacientes
 🏥 Sistema Básico de Registro de Pacientes en Java 🏥
 
 ## 📌 Intro 
